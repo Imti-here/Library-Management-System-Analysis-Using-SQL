@@ -79,6 +79,5 @@ Created summary tables using CTAS for reporting and analysis purposes.
 
 ## Project Structure
 /Data/ → Contains all project CSV datasets  
-/Library management system queries.sql → SQL queries
-
+/Library management system queries.sql → SQL queries 
 README.md → Project documentation
